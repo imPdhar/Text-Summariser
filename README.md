@@ -14,14 +14,14 @@ Most of the lines are explained or described at their side using comments.
 
 
 
-### Requirements:
+## Requirements:
 
 - **NLTK** for NLP --> Use `pip install nltk` to install.
 - **Pandas** for File Operations --> Use `pip install pandas` to install. 
 
 
 
-### How to Use:
+## How to Use:
 
 Make sure the code(.py file) and the data.txt file are in the same directory or else change the path of the file if you require. Refer: [Absolute and Relative path](https://www.computerhope.com/issues/ch001708.htm).
 
