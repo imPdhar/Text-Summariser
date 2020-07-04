@@ -30,7 +30,7 @@ Make sure the code(.py file) and the data.txt file are in the same directory or 
 
 
 
-### Errors:
+## Errors:
 
 None. 
 
